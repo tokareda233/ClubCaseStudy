@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\repo\\implementations\\paymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\repo\\implementations\\paymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\unitofwork\\unitofworkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\unitofwork\\unitofworkk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\repo\\interfaces\\ipaymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\repo\\interfaces\\ipaymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\dtos\\payment\\getstatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\dtos\\payment\\getstatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\mapping\\modelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\mapping\\modelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\dtos\\payment\\createpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\dtos\\payment\\createpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\dtos\\payment\\getpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\dtos\\payment\\getpaymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\dtos\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\dtos\\booking\\createbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\controllers\\facilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\controllers\\facilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\repo\\interfaces\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\repo\\interfaces\\ibookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\dtos\\booking\\getbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\dtos\\booking\\getbookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\repo\\implementations\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\repo\\implementations\\bookingrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\repo\\implementations\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\repo\\implementations\\memberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\dtos\\facility\\createfacilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\dtos\\facility\\createfacilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\dtos\\facility\\getfacilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\dtos\\facility\\getfacilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\repo\\interfaces\\imembershiprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\repo\\interfaces\\imembershiprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\repo\\implementations\\membershiprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\repo\\implementations\\membershiprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\repo\\interfaces\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\repo\\interfaces\\imemberrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\dtos\\membership\\getmembershipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\dtos\\membership\\getmembershipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\dtos\\membership\\createmembershipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\dtos\\membership\\createmembershipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\dtos\\member\\getmemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\dtos\\member\\getmemberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\models\\memberr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\models\\memberr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\dtos\\member\\creatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\dtos\\member\\creatememberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\repo\\implementations\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\repo\\implementations\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\repo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\repo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|c:\\users\\taqy.reda\\source\\repos\\clubcasestudy\\clubcasestudy\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{197371BC-3926-4AD3-B79E-96C2084307CF}|ClubCaseStudy\\ClubCaseStudy.csproj|solutionrelative:clubcasestudy\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetStatisticsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Payment\\GetStatisticsDTO.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\DTOs\\Payment\\GetStatisticsDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Payment\\GetStatisticsDTO.cs",
+              "RelativeToolTip": "ClubCaseStudy\\DTOs\\Payment\\GetStatisticsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:46:27.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:39:29.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "ClubCaseStudy\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:49:36.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Controllers\\BookingController.cs*",
+              "RelativeToolTip": "ClubCaseStudy\\Controllers\\BookingController.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwFEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:32:21.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPaymentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Interfaces\\IPaymentRepo.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Repo\\Interfaces\\IPaymentRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Interfaces\\IPaymentRepo.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Repo\\Interfaces\\IPaymentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:29:00.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Implementations\\PaymentRepo.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Repo\\Implementations\\PaymentRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Implementations\\PaymentRepo.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Repo\\Implementations\\PaymentRepo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:30:00.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWorkk.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\UnitOfWork\\UnitOfWorkk.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\UnitOfWork\\UnitOfWorkk.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\UnitOfWork\\UnitOfWorkk.cs",
+              "RelativeToolTip": "ClubCaseStudy\\UnitOfWork\\UnitOfWorkk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:50:19.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Controllers\\MemberController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:08:31.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModelProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Mapping\\ModelProfile.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Mapping\\ModelProfile.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Mapping\\ModelProfile.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Mapping\\ModelProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvx8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:03:50.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreatePaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Payment\\CreatePaymentDTO.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\DTOs\\Payment\\CreatePaymentDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Payment\\CreatePaymentDTO.cs",
+              "RelativeToolTip": "ClubCaseStudy\\DTOs\\Payment\\CreatePaymentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:37:36.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetPaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Payment\\GetPaymentDTO.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\DTOs\\Payment\\GetPaymentDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Payment\\GetPaymentDTO.cs",
+              "RelativeToolTip": "ClubCaseStudy\\DTOs\\Payment\\GetPaymentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T11:37:48.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Models\\Payment.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Models\\Payment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:22:25.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MemberShipController.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Controllers\\MemberShipController.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Controllers\\MemberShipController.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Controllers\\MemberShipController.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Controllers\\MemberShipController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:33:59.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Interfaces\\IBookingRepo.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Repo\\Interfaces\\IBookingRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Interfaces\\IBookingRepo.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Repo\\Interfaces\\IBookingRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:15:37.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FacilityController.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Controllers\\FacilityController.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Controllers\\FacilityController.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Controllers\\FacilityController.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Controllers\\FacilityController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:10:53.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Program.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Program.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Program.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:29:46.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetBookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Booking\\GetBookingDTO.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\DTOs\\Booking\\GetBookingDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Booking\\GetBookingDTO.cs",
+              "RelativeToolTip": "ClubCaseStudy\\DTOs\\Booking\\GetBookingDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:17:55.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateBookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "RelativeToolTip": "ClubCaseStudy\\DTOs\\Booking\\CreateBookingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:17:43.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Models\\Booking.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:19:16.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookingRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Implementations\\BookingRepo.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Repo\\Implementations\\BookingRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Implementations\\BookingRepo.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Repo\\Implementations\\BookingRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:16:02.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MemberRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Implementations\\MemberRepo.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Repo\\Implementations\\MemberRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Implementations\\MemberRepo.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Repo\\Implementations\\MemberRepo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:57:50.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateFacilityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Facility\\CreateFacilityDTO.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\DTOs\\Facility\\CreateFacilityDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Facility\\CreateFacilityDTO.cs",
+              "RelativeToolTip": "ClubCaseStudy\\DTOs\\Facility\\CreateFacilityDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:07:36.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetFacilityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Facility\\GetFacilityDTO.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\DTOs\\Facility\\GetFacilityDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Facility\\GetFacilityDTO.cs",
+              "RelativeToolTip": "ClubCaseStudy\\DTOs\\Facility\\GetFacilityDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T10:07:48.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IMemberShipRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Interfaces\\IMemberShipRepo.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Repo\\Interfaces\\IMemberShipRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Interfaces\\IMemberShipRepo.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Repo\\Interfaces\\IMemberShipRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:23:23.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MemberShipRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Implementations\\MemberShipRepo.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Repo\\Implementations\\MemberShipRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Implementations\\MemberShipRepo.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Repo\\Implementations\\MemberShipRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA+wBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:24:52.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Facility.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Models\\Facility.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Models\\Facility.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Models\\Facility.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Models\\Facility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:16:56.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IMemberRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Interfaces\\IMemberRepo.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Repo\\Interfaces\\IMemberRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Interfaces\\IMemberRepo.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Repo\\Interfaces\\IMemberRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:56:07.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetMemberShipDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\MemberShip\\GetMemberShipDTO.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\DTOs\\MemberShip\\GetMemberShipDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\MemberShip\\GetMemberShipDTO.cs",
+              "RelativeToolTip": "ClubCaseStudy\\DTOs\\MemberShip\\GetMemberShipDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:32:39.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateMemberShipDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\MemberShip\\CreateMemberShipDTO.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\DTOs\\MemberShip\\CreateMemberShipDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\MemberShip\\CreateMemberShipDTO.cs",
+              "RelativeToolTip": "ClubCaseStudy\\DTOs\\MemberShip\\CreateMemberShipDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:31:57.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MemberShip.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Models\\MemberShip.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Models\\MemberShip.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Models\\MemberShip.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Models\\MemberShip.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:14:13.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetMemberDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Member\\GetMemberDTO.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\DTOs\\Member\\GetMemberDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Member\\GetMemberDTO.cs",
+              "RelativeToolTip": "ClubCaseStudy\\DTOs\\Member\\GetMemberDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:55:08.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateMemberDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Member\\CreateMemberDTO.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\DTOs\\Member\\CreateMemberDTO.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\DTOs\\Member\\CreateMemberDTO.cs",
+              "RelativeToolTip": "ClubCaseStudy\\DTOs\\Member\\CreateMemberDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:54:03.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Implementations\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Repo\\Implementations\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Implementations\\GenericRepo.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Repo\\Implementations\\GenericRepo.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:44:05.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Repo\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Repo\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Repo\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:43:01.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:29:34.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Memberr.cs",
+              "DocumentMoniker": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Models\\Memberr.cs",
+              "RelativeDocumentMoniker": "ClubCaseStudy\\Models\\Memberr.cs",
+              "ToolTip": "C:\\Users\\Taqy.Reda\\source\\repos\\ClubCaseStudy\\ClubCaseStudy\\Models\\Memberr.cs",
+              "RelativeToolTip": "ClubCaseStudy\\Models\\Memberr.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:11:52.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@ClubCaseStudy_HostAddress = http://localhost:5215
+
+GET {{ClubCaseStudy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
